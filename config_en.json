@@ -27,11 +27,12 @@
     {
       "layout": "header_text",
       "fontSize": 20.0,
-      "text": {
+      "text": [{
         "en": "Search for a product",
         "ar": "بلوق وظائف"
        
       }
+    ]
     },
 
     {
