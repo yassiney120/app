@@ -1,0 +1,224 @@
+{
+
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "hideLogo": false,
+      "isSafeArea": true,
+      "showBackground": true
+
+
+    },
+    {
+      "layout": "bannerImage",
+      "radius": 50.0,
+      "padding": 0.0,
+      "items": [
+        {
+          "image": "https://ebayty.com/wp-content/uploads/2020/02/5e371c2b3406dd.png",
+          "radius": 50.0,
+          "padding": 0.0
+        }
+      ]
+    },
+
+    {
+      "layout": "header_text",
+      "fontSize": 20.0,
+      "title":
+      {
+        "en":"WHAT'S NEW ?",
+        "ar": "الجديد"
+      }
+
+    },
+
+    {
+      "layout": "bannerImage",
+      "fontSize": 25.0,
+      "isSlider": true,
+      "design": "swiper",
+      "radius": 20.0,
+      "items": [
+        {
+          "category": 136,
+          "image": "https://Ebayty.b-cdn.net/wp-content/uploads/2019/12/bags.png",
+          "padding": 0.0
+        },
+        {
+          "category": 139,
+          "image": "https://Ebayty.b-cdn.net/wp-content/uploads/2019/12/parfume-3.png",
+          "padding": 0.0
+        },
+        {
+          "category": 15,
+          "image": "https://Ebayty.b-cdn.net/wp-content/uploads/2019/12/clothing.png",
+          "padding": 0.0
+        }
+      ]
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 25.0,
+      "padding": 30.0,
+      "height": 0.1,
+      "title": "Shop by Categories",
+      "isSafeArea": false
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 0.2,
+      "radius": 50.0,
+      "background": "#FFFFFF",
+
+      "shadow": 0.0,
+      "padding": 1.0,
+      "items": [
+        {
+          "category": 15,
+          "image": "assets/images/categories/15.png",
+          "name": "Clothing",
+          "description": "Top-rated"
+
+        },
+        {
+          "category": 132,
+          "image": "assets/images/categories/132.png",
+          "name": "Accessories",
+          "description": "Top-rated"
+        },
+        {
+          "category": 136,
+          "image": "assets/images/categories/136.png",
+          "name": "Bags",
+          "description": "Top-rated"
+        },
+        {
+          "category": 133,
+          "image": "assets/images/categories/133.png",
+          "name": "Beauty",
+          "description": "Top-rated"
+        },
+        {
+          "category": 139,
+          "image": "assets/images/categories/139.png",
+          "name": "Perfume",
+          "description": "Top-rated"
+        },
+        {
+          "category": 134,
+          "image": "assets/images/categories/134.png",
+          "name": "Watch",
+          "description": "Top-rated"
+        },
+        {
+          "category": 138,
+          "image": "assets/images/categories/138.png",
+          "name": "Abayas",
+          "description": "Top-rated"
+        },
+        {
+          "category": 146,
+          "image": "assets/images/categories/146.png",
+          "name": "Make-up",
+          "description": "Top-rated"
+        },
+        {
+          "category": 131,
+          "image": "assets/images/categories/131.png",
+          "name": "Shoes",
+          "description": "Top-rated"
+        },
+        {
+          "category": 140,
+          "image": "assets/images/categories/140.png",
+          "name": "Incense",
+          "description": "Top-rated"
+        }
+
+      ]
+    },
+    {
+      "layout": "threeColumn",
+      "name": "Recent Collections"
+    },
+    {
+
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 37,
+          "image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
+          "padding": 5.0
+        }
+
+      ]
+
+    },
+    {
+      "name": "New Abayas",
+      "layout": "card",
+      "category": 15
+    },
+    {
+      "name": "Share your look",
+      "layout": "instagram",
+      "tag": "ebayty"
+    },
+    {
+      "layout": "staggered",
+      "limit": 20,
+      "category": 15
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "tinder",
+      "items": [
+        {
+          "category": 23,
+          "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+          "padding": 15.0
+        }
+      ]
+    }
+  ],
+
+  "VerticalLayout": {
+    "layout": "pinterest",
+    "name": "Recent Products"
+
+  },
+  "Setting": {
+    "MainColor": "#263238",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "isDisplay": true,
+      "categoryLayout": "sideMenu",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png"
+    }
+  ]
+}
