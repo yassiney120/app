@@ -27,10 +27,10 @@
     {
       "layout": "header_text",
       "fontSize": 20.0,
-      "title":[
+      "title":{
       "en":"WHAT'S NEW ?",
        "ar":"الجديد ؟"
-      ] 
+      } 
     },
 
     {
