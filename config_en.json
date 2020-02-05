@@ -27,10 +27,11 @@
     {
       "layout": "header_text",
       "fontSize": 20.0,
-      "title":{
-      "en":"WHAT'S NEW ?",
-       "ar":"الجديد ؟"
-      } 
+      "text": {
+        "en": "Search for a product",
+        "ar": "بلوق وظائف",
+        "vi": "Tìm kiếm"
+      }
     },
 
     {
