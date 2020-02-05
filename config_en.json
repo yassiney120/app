@@ -5,7 +5,7 @@
       "layout": "logo",
       "showMenu": true,
       "showSearch": true,
-      "hideLogo": false,
+      "hideLogo": true,
       "isSafeArea": true,
       "showBackground": true
 
